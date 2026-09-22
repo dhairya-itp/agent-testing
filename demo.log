@@ -1,0 +1,5 @@
+2026-09-18T22:21:26Z [INFO] EC2.StopInstances - Instance i-03a336e4ae335b8c4 (LiteLLM AI Gateway) stop initiated in region ap-south-1
+2026-09-18T22:21:26Z [INFO] EventSource: ec2.amazonaws.com | EventName: StopInstances | Account: 981137913275
+2026-09-18T22:21:26Z [AUDIT] Identity: assumed-role/AWSReservedSSO_PowerUserAccess_[REDACTED]/[USER-REDACTED] | UserAgent: AWS Console (Chrome)
+2026-09-18T22:21:26Z [INFO] SourceIP: [REDACTED] | SessionType: Console | StateTransitionReason: User initiated shutdown
+2026-09-18T22:21:27Z [INFO] Instance State: running → stopped | StateReasonCode: Client.UserInitiatedShutdown | Pattern: Recurring daily stop (3rd occurrence in 7 days)
